@@ -18,6 +18,9 @@
 		<RepositoryType>git</RepositoryType>
 		<VersionPrefix>0.0.1</VersionPrefix>
 		<VersionSuffix></VersionSuffix>
+		<ApplicationIcon />
+		<OutputType>Library</OutputType>
+		<StartupObject />
 	</PropertyGroup>
 
 	<ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
